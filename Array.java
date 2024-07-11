@@ -1,6 +1,6 @@
 public class Array {
   public static void main(String[] args) {
-    ArrayList<String> cars = new ArrayList<String>();
+    Array<String> cars = new Array<String>();
     cars.add("Volvo");
     cars.add("BMW");
     cars.add("Ford");
